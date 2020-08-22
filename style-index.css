@@ -44,8 +44,9 @@ a.logo {
   background-color: #000000;
   color: #ffffff;
 }
-.logo a:hover {
-  background-color: #333;
+a.logo:hover {
+  background-color: #000000;
+  color: #ffffff;
 }
 .topnav a {
   color: #f2f2f2;
